@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "AI Video Prompts Hub",
+  "short_name": "AI Prompts",
+  "description": "Progressive Web App perpustakaan prompt AI lengkap dengan 10 kategori, pencarian real-time, dan dukungan offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
